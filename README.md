@@ -23,10 +23,10 @@ password and domain.
 NOTE: If you're using the same password for all Apple IDs then just make the
 changes and leave the script unchanged. I used a different password for 
 each ID (I was told by an Apple rep that I had to) with the following
-format: iPad-secretword-01
+format: `iPad-secretword-01`
 You can easily replicate that type of format by modifying the commented out
 line in the script:
-set aidPassword to a & "-" & secretWord & "-" & b
+set `aidPassword to a & "-" & secretWord & "-" & b`
 
 - Open Safari and Mail.
 
