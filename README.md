@@ -6,7 +6,7 @@ Apple ID Verification
 After creating Apple IDs for deploying a large quantity of iOS devices 
 we need to go through the time-consuming process of verifying them. This
 consists of opening an email, clicking a link and entering the Apple ID
-credential in a form.
+credentials in a form.
 
 ### Requirements
 
