@@ -44,7 +44,6 @@ The files are downloadable from GitHub:
 https://github.com/ntoqiakt/Apple-ID-AppleScript Feel free to fork
 and improve.
 
-
-Updated version brought to you by [ntoqiakt][]
+Brought to you by [ntoqiakt][]
 
   [ntoqiakt]: https://github.com/ntoqiakt
