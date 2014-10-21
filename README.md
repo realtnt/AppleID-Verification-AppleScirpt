@@ -13,7 +13,7 @@ credential in a form.
 - I created this script to use Mail and Safari which exist on every Mac.
 
 - All the verification emails must be on the same mailbox. You can do this
-by creating all the devices using email aliases to one master email.
+by creating all the Apple IDs using email aliases to one master email.
 
 ### Instructions
 
