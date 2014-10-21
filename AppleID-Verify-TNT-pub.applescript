@@ -34,12 +34,14 @@ tell application "Mail"
 		set startofurl to the offset of "https://id" in theContent
 		set theContent to rich text startofurl through -1 of theContent
 		set endofurl to offset of "en_GB" in theContent
+		
+		-- the following 3 lines of code just clean up the link as it was getting
+		-- some funny characters because it was encoded as QUOTED PRINTABLE
 		set theLink to rich text 1 through (endofurl + 5) of theContent
 		set theLink to replace_chars(theLink, "=3D", "=") of me
 		set theLink to replace_chars(theLink, "=
 ", "") of me
-		-- display dialog theLink
-		
+				
 		tell application "Safari"
 			open location theLink
 			
