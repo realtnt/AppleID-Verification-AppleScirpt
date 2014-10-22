@@ -26,7 +26,7 @@ tell application "Mail"
 		set a to word 2 of parsedname
 		set b to word 3 of parsedname
 		set aidEmail to a & "-" & b & "@" & ourDomain
-		set aidPassword to secertWord
+		set aidPassword to secretWord
 		-- set aidPassword to a & "-" & secretWord & "-" & b
 		
 		set thelist to {} --this will store the URL's
