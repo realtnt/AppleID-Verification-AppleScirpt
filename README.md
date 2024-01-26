@@ -41,9 +41,9 @@ No checking on whether Mail is open or not. If it is not the script will fail.
 ### Download
 
 The files are downloadable from GitHub:
-https://github.com/ntoqiakt/Apple-ID-AppleScript Feel free to fork
+https://github.com/realtnt/Apple-ID-AppleScript Feel free to fork
 and improve.
 
-Brought to you by [ntoqiakt][]
+Brought to you by [realtnt][]
 
   [ntoqiakt]: https://github.com/ntoqiakt
